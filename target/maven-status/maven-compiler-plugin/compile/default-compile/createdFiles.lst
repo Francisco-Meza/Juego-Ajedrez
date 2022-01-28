@@ -1,0 +1,9 @@
+com\mycompany\ajedrez\EmpezarJuego$Movimiento.class
+com\mycompany\ajedrez\Pieza.class
+com\mycompany\ajedrez\Ventana.class
+com\mycompany\ajedrez\Piezas\IPieza.class
+com\mycompany\ajedrez\Piezas\IConstantes.class
+com\mycompany\ajedrez\Acerca.class
+com\mycompany\ajedrez\Main.class
+com\mycompany\ajedrez\Movimiento.class
+com\mycompany\ajedrez\EmpezarJuego.class
